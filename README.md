@@ -5,3 +5,5 @@ The objective of this project is to design and develop an interactive Weather Fo
 - <a href ="https://www.weatherapi.com/my/">API</a>
 ## Visualisation
 - <a href ="https://github.com/ChanduC2/Weather-Forecast/blob/main/Weather%20Forecast.pbix">Visualisation</a>
+## Dashboard
+<img width="1325" height="740" src="https://github.com/user-attachments/assets/fbce3d5e-72bb-489b-9c5f-f2a783dddc2f" />
